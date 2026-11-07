@@ -1,0 +1,2 @@
+; MOS Characterizer short entry point. MIT License.
+load(strcat(getShellEnvVar("HOME") "/ic/mos_characterizer/mos_characterizer.il"))
